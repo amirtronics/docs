@@ -1,1 +1,2 @@
 bebop_ros/Dataset/720x1280.zip filter=lfs diff=lfs merge=lfs -text
+bebop_ros/Models/model_final.zip filter=lfs diff=lfs merge=lfs -text
